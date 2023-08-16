@@ -2,7 +2,7 @@
 const plugin = require("tailwindcss/plugin");
 
 module.exports = {
-  content: ["./index.html", "./src/**/*.{js}"],
+  content: ["./index.html", "./src/**/*.js"],
   theme: {
     fontFamily: {
       sans: ["Noto Sans TC"],
